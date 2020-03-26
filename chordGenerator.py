@@ -79,8 +79,6 @@ class chordGenerator:
 
 def main():
 
-	print("Hello"[-3:])
-
 	generator = chordGenerator()
 	test_chords = ['CM7','F-7','C9','Bbd7','FM9','C#7sus']
 	for chord in test_chords:
